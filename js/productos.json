@@ -1,0 +1,182 @@
+[
+  {
+      "id": "fruta-01",
+      "titulo": "Manzana",
+      "imagen": "./img/frutas/01.jpg",
+      "categoria": {
+          "nombre": "Frutas",
+          "id": "frutas"
+      },
+      "precio": 200
+  },
+  {
+      "id": "fruta-02",
+      "titulo": "Naranja",
+      "imagen": "./img/frutas/02.jpg",
+      "categoria": {
+          "nombre": "Frutas",
+          "id": "frutas"
+      },
+      "precio": 150
+  },
+  {
+      "id": "fruta-03",
+      "titulo": "Frutilla",
+      "imagen": "./img/frutas/03.jpg",
+      "categoria": {
+          "nombre": "Frutas",
+          "id": "frutas"
+      },
+      "precio": 400
+  },
+  {
+      "id": "fruta-04",
+      "titulo": "Banana",
+      "imagen": "./img/frutas/04.jpg",
+      "categoria": {
+          "nombre": "Frutas",
+          "id": "frutas"
+      },
+      "precio": 300
+  },
+  {
+      "id": "fruta-05",
+      "titulo": "Melon",
+      "imagen": "./img/frutas/05.jpg",
+      "categoria": {
+          "nombre": "Frutas",
+          "id": "frutas"
+      },
+      "precio": 650
+  },
+  {
+      "id": "verdura-01",
+      "titulo": "Calabaza",
+      "imagen": "./img/verduras/01.jpg",
+      "categoria": {
+          "nombre": "Verduras",
+          "id": "verduras"
+      },
+      "precio": 650
+  },
+  {
+      "id": "verdura-02",
+      "titulo": "Tomate",
+      "imagen": "./img/verduras/02.jpg",
+      "categoria": {
+          "nombre": "Verduras",
+          "id": "verduras"
+      },
+      "precio": 300
+  },
+  {
+      "id": "verdura-03",
+      "titulo": "Cebolla",
+      "imagen": "./img/verduras/03.jpg",
+      "categoria": {
+          "nombre": "Verduras",
+          "id": "verduras"
+      },
+      "precio": 250
+  },
+  {
+      "id": "verdura-04",
+      "titulo": "Zanahoria",
+      "imagen": "./img/verduras/04.jpg",
+      "categoria": {
+          "nombre": "Verduras",
+          "id": "verduras"
+      },
+      "precio": 200
+  },
+  {
+      "id": "verdura-05",
+      "titulo": "Choclo",
+      "imagen": "./img/verduras/05.jpg",
+      "categoria": {
+          "nombre": "Verduras",
+          "id": "verduras"
+      },
+      "precio": 150
+  },
+  {
+      "id": "verdura-06",
+      "titulo": "Lechuga",
+      "imagen": "./img/verduras/06.jpg",
+      "categoria": {
+          "nombre": "Verduras",
+          "id": "verduras"
+      },
+      "precio": 150
+  },
+  {
+      "id": "verdura-07",
+      "titulo": "Brocoli",
+      "imagen": "./img/verduras/07.jpg",
+      "categoria": {
+          "nombre": "Verduras",
+          "id": "verduras"
+      },
+      "precio": 250
+  },
+  {
+      "id": "verdura-08",
+      "titulo": "Espinaca",
+      "imagen": "./img/verduras/08.jpg",
+      "categoria": {
+          "nombre": "Verduras",
+          "id": "verduras"
+      },
+      "precio": 200
+  },
+  {
+      "id": "variedad-01",
+      "titulo": "Nueces",
+      "imagen": "./img/variedades/01.jpg",
+      "categoria": {
+          "nombre": "Variedades",
+          "id": "variedades"
+      },
+      "precio": 600
+  },
+  {
+      "id": "variedad-02",
+      "titulo": "Pasas",
+      "imagen": "./img/variedades/02.jpg",
+      "categoria": {
+          "nombre": "Variedades",
+          "id": "variedades"
+      },
+      "precio": 250
+  },
+  {
+      "id": "variedad-03",
+      "titulo": "Avellanas",
+      "imagen": "./img/variedades/03.jpg",
+      "categoria": {
+          "nombre": "Variedades",
+          "id": "variedades"
+      },
+      "precio": 300
+  },
+  {
+      "id": "variedad-04",
+      "titulo": "Granola",
+      "imagen": "./img/variedades/04.jpg",
+      "categoria": {
+          "nombre": "Variedades",
+          "id": "variedades"
+      },
+      "precio": 400
+  },
+  {
+      "id": "variedad-05",
+      "titulo": "Pistachos",
+      "imagen": "./img/variedades/05.jpg",
+      "categoria": {
+          "nombre": "Variedades",
+          "id": "variedades"
+      },
+      "precio": 350
+  }
+]
